@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am [Pruthviraj](https://www.linkedin.com/in/pruthviraj-kambale-92b891138), more than 3 years Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Golang, Spring Boot, Angular, Reactjs. Strong engineering professional with a Bachelors focused in Electronics Engineering from Finolex Academy of Management & Technology. . 🎯
+
+I mostly work with Spring boot and React js. 🚀
+
+
+<p float="left">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" >
+    <img src="https://spring.io/projects/spring-boot"  height="90" />
+  </a>
+ </p>
+    
+### Databases
+<p float="left">
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="65" />
+  </a>
+</p>
+
+
+### 📫 How to reach me?
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/pruthviraj-kambale-92b891138) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/prithvi2391/) ✨
+ - Shoot Me an [Email](mailto:pruthvi.kambale@gmail.com) 💌
