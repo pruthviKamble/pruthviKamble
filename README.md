@@ -23,16 +23,16 @@ I mostly work with Spring boot and React js. 🚀
 
 <p float="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank" >
-    <img src="assets/spring-boot-logo.png"  height="90" />
+    <img src="https://raw.githubusercontent.com/raj2391/raj2391/master/assets/spring-boot-logo.png"  height="90" />
   </a>
    <a href="https://golang.org/" target="_blank" >
-    <img src="assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/raj2391/raj2391/master/assets/golang.gif"  height="90" />
   </a>
   <a href="https://reactjs.org/" target="_blank" >
-    <img src="assets/react-js.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/raj2391/raj2391/master/assets/react-js.gif"  height="90" />
   </a>
   <a href="https://angular.io/" target="_blank" >
-    <img src="assets/angular-icon.svg"  height="90" />
+    <img src="https://raw.githubusercontent.com/raj2391/raj2391/master/assets/angular-icon.svg"  height="90" />
   </a>
  </p>
     
