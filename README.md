@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-I am [Pruthviraj](https://www.linkedin.com/in/pruthviraj-kambale-92b891138), more than 3 years Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Golang, Spring Boot, Angular, Reactjs. Strong engineering professional with a Bachelors focused in Electronics Engineering from [Finolex Academy of Management & Technology](http://famt.ac.in/) and [Post Graduation- Diploma in Advance Computing (PG-DAC)](https://www.cdac.in/) from [Know it, Pune](http://know-it.co.in/) 🎯
+I am [Pruthviraj](https://www.linkedin.com/in/pruthviraj-kambale-92b891138), more than 6 years Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Golang, Spring Boot, Angular, Reactjs, GCP, Node js, Appscript. Strong engineering professional with a Bachelors focused in Electronics Engineering from [Finolex Academy of Management & Technology](http://famt.ac.in/) and [Post Graduation- Diploma in Advance Computing (PG-DAC)](https://www.cdac.in/) from [Know it, Pune](http://know-it.co.in/) 🎯
 
-I mostly work with Spring boot and React js. 🚀
+I mostly work with Spring boot, React js and Node js. 🚀
 
 
 <p float="left">
